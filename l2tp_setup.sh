@@ -9,7 +9,7 @@ echo "#######################################################"
 echo "L2TP service for Debian"
 echo
 echo "Easy to install & add new account."
-echo "only tested on Debian 7 & Debian 8 x64 and x32."
+echo "only tested on Debian 7 x64 and x32."
 echo "PS:Please make sure you are using root account."
 echo "#######################################################"
 echo
