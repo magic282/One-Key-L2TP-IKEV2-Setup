@@ -1,7 +1,9 @@
 # One-Key-L2TP-IKEV2-Setup
 
 [Ref1]  
+
 [Ref2]  
+
 [Ref3]  
 
 
@@ -10,7 +12,7 @@ Well I guess it would work on Ubuntu, LOL.
 
 The l2tp VPN supports IKEv1, IKEv2, etc.
 
-So iOS, Windows desktop version, Android are all supported, esp the 1% Windows Phone user :)
+So iOS, Mac OS, Windows and Android are all supported, esp the 1% Windows Phone users :)
 
 About how to use it, please check the [ref3] part 4.
 
