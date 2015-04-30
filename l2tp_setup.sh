@@ -259,7 +259,7 @@ EOF
     echo "IP: $IP"
     echo "Secretkey: $k"
     echo "CA cert: /root/l2tpInstall/ca.cert.pem"
-    echo "Don't foget to add a new user later, LOL."
+    echo "Don't forget to add a new user later, LOL."
     echo "################################################"
 
     # if choose 2:
