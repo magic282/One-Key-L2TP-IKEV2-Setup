@@ -1,7 +1,7 @@
 # One-Key-L2TP-IKEV2-Setup
 
 
-Only tested on Digital Ocean **Debian** 7 32bit and 64 bit.  
+Only tested on Digital Ocean **Debian** 7 x64/x32 and Debian 8 x64.  
 Well I guess it would work on Ubuntu, LOL.
 
 The l2tp VPN supports IKEv1, IKEv2, etc.
