@@ -9,7 +9,7 @@ echo "#######################################################"
 echo "L2TP service for Debian"
 echo
 echo "Easy to install & add new account."
-echo "only tested on Debian 7 x64 and x32."
+echo "only tested on Debian 7 x64/x32 and Debian 8 64."
 echo "PS:Please make sure you are using root account."
 echo "#######################################################"
 echo
@@ -69,8 +69,8 @@ if test $x -eq 1; then
 	ipsecSecrets=/usr/local/etc/ipsec.secrets
 	ipsecD=/usr/local/etc/ipsec.d
 	cd /tmp
-	wget http://download.strongswan.org/strongswan.tar.gz
-	tar xzf strongswan.tar.gz
+	wget https://download.strongswan.org/strongswan-5.2.2.tar.gz
+        tar xzf strongswan*.tar.gz
 	cd strongswan-*
 
 
