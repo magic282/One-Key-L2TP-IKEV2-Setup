@@ -20,4 +20,4 @@ About how to use it, please check the [ref3] part 4.
 
 [ref2]: http://quericy.me/blog/512
 
-[ref3]: http://coffeecat.info/?p=151
+[ref3]: http://routeragency.com/?p=151
