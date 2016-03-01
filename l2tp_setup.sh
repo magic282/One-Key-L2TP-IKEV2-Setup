@@ -69,7 +69,7 @@ if test $x -eq 1; then
 	ipsecSecrets=/usr/local/etc/ipsec.secrets
 	ipsecD=/usr/local/etc/ipsec.d
 	cd /tmp
-	wget https://download.strongswan.org/strongswan-5.2.2.tar.gz
+	wget https://download.strongswan.org/strongswan-5.2.2.tar.gz --no-check-certificate
         tar xzf strongswan*.tar.gz
 	cd strongswan-*
 
